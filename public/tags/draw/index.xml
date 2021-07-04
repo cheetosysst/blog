@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draw on Thect&#39;s Blog</title>
+    <link>http://thect.tw/tags/draw/</link>
+    <description>Recent content in Draw on Thect&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 11:19:53 +0800</lastBuildDate><atom:link href="http://thect.tw/tags/draw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[塗鴉] 近期隨手塗鴉</title>
+      <link>http://thect.tw/posts/draw_2020_11/</link>
+      <pubDate>Sun, 01 Nov 2020 11:19:53 +0800</pubDate>
+      
+      <guid>http://thect.tw/posts/draw_2020_11/</guid>
+      <description>我最近的幾個塗鴉 </description>
+      <content>&lt;p&gt;我最近的幾個塗鴉
+&lt;img src=&#34;https://thect.tw/IMG_20201015_125412_204.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201016_125559_755.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201021_110039_183.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201021_112159_027.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

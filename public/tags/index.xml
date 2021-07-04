@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Thect&#39;s Blog</title>
+    <link>http://thect.tw/tags/</link>
+    <description>Recent content in Tags on Thect&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 11:19:53 +0800</lastBuildDate><atom:link href="http://thect.tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draw</title>
+      <link>http://thect.tw/tags/draw/</link>
+      <pubDate>Sun, 01 Nov 2020 11:19:53 +0800</pubDate>
+      
+      <guid>http://thect.tw/tags/draw/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://thect.tw/tags/music/</link>
+      <pubDate>Sat, 19 Sep 2020 13:54:02 +0800</pubDate>
+      
+      <guid>http://thect.tw/tags/music/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Rocket</title>
+      <link>http://thect.tw/tags/rocket/</link>
+      <pubDate>Wed, 26 Aug 2020 23:16:35 +0800</pubDate>
+      
+      <guid>http://thect.tw/tags/rocket/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://thect.tw/tags/science/</link>
+      <pubDate>Wed, 26 Aug 2020 23:16:35 +0800</pubDate>
+      
+      <guid>http://thect.tw/tags/science/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

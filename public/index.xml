@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thect&#39;s Blog</title>
+    <link>http://thect.tw/</link>
+    <description>Recent content on Thect&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2020 01:46:38 +0800</lastBuildDate><atom:link href="http://thect.tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>關於 About</title>
+      <link>http://thect.tw/about/</link>
+      <pubDate>Sun, 04 Jul 2021 21:33:55 +0800</pubDate>
+      
+      <guid>http://thect.tw/about/</guid>
+      <description>🤔 簡介</description>
+      <content>&lt;h3 id=&#34;-簡介&#34;&gt;🤔 簡介&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://github.com/cheetosysst&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/followers/cheetosysst?style=flat-square&#34; alt=&#34;Followers&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;https://twitter.com/Thect_36&#34;&gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/Thect_36?style=flat-square&#34; alt=&#34;Tweeter_Followers&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本名: 張 辰&lt;/li&gt;
+&lt;li&gt;其他稱呼: &lt;strong&gt;Thect&lt;/strong&gt;、&lt;strong&gt;Cheetosysst&lt;/strong&gt;、&lt;strong&gt;早八&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;興趣: 寫程式 (很顯然的)、寫歌、繪圖、翻譯&lt;/li&gt;
+&lt;li&gt;學歷: 成功高中、&lt;strong&gt;逢甲大學資工系&lt;/strong&gt; (在學)&lt;/li&gt;
+&lt;li&gt;專長: &lt;strong&gt;Python&lt;/strong&gt;、&lt;strong&gt;NodeJS&lt;/strong&gt;、翻譯、撰寫文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-紀錄&#34;&gt;🔗 紀錄&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api?username=cheetosysst&amp;amp;count_private=true&amp;amp;show_icons=true&amp;amp;bg_color=222629&amp;amp;icon_color=6b6e70&amp;amp;text_color=86c232&amp;amp;title_color=61892f&amp;amp;hide_title=true&amp;amp;include_all_commits=true&#34; alt=&#34;Thect&amp;rsquo;s github stats&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-作品&#34;&gt;🛠 作品&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cheetosysst/demoji&#34;&gt;Demoji&lt;/a&gt;:
+適用於 i3, bspwm 等 tiling WM 環境，使用 dmenu 建立的 emoji 選擇器。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/cheetosysst/EMU6502&#34;&gt;EMU6502&lt;/a&gt;:
+嘗試使用 Python 寫 6502 模擬器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-常用語言&#34;&gt;🔨 常用語言&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/anuraghazra/github-readme-stats&#34;&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api/top-langs/?username=cheetosysst&amp;amp;layout=compact&amp;amp;hide=html&amp;amp;bg_color=222629&amp;amp;icon_color=6b6e70&amp;amp;text_color=86c232&amp;amp;title_color=86c232&#34; alt=&#34;Top Langs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-其他領域&#34;&gt;🎨 其他領域&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/thect&#34;&gt;🎵音樂製作&lt;/a&gt;: 非專業音樂人，閒暇之餘做的幾首曲子。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/@Thect&#34;&gt;🚀火箭科普&lt;/a&gt;: 火箭和天文愛好者，將英文的相關資源翻譯統整後寫成科普文。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-聯絡方式&#34;&gt;📬 聯絡方式&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:thect@thect.tw&#34;&gt;thect@thect.tw&lt;/a&gt; (我會盡量回信的!)&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href=&#34;https://twitter.com/Thect_36&#34;&gt;@Thect_36&lt;/a&gt; (以其他領域的創作為主喔~)&lt;/li&gt;
+&lt;li&gt;IPoAC: &lt;a href=&#34;https://zh.wikipedia.org/wiki/%E4%BB%A5%E9%B8%9F%E7%B1%BB%E4%B8%BA%E8%BD%BD%E4%BD%93%E7%9A%84%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE&#34;&gt;操作說明&lt;/a&gt; 請在東北季風盛行的季節於七星山頂向南方飛鴿傳書，但是掉封包的機率很高，請一次多放幾隻，並用大一點的 SD 卡取代紙條作為封包載體，我會盡力接訊息的!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>[音樂] Delight_Breeze</title>
+      <link>http://thect.tw/posts/delight_breeze/</link>
+      <pubDate>Thu, 19 Nov 2020 01:46:38 +0800</pubDate>
+      
+      <guid>http://thect.tw/posts/delight_breeze/</guid>
+      <description>Delight_Breeze
+在 Youtube 上聆聽</description>
+      <content>&lt;p&gt;Delight_Breeze&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/voP7WOKGlCs&#34;&gt;在 Youtube 上聆聽&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>[塗鴉] 近期隨手塗鴉</title>
+      <link>http://thect.tw/posts/draw_2020_11/</link>
+      <pubDate>Sun, 01 Nov 2020 11:19:53 +0800</pubDate>
+      
+      <guid>http://thect.tw/posts/draw_2020_11/</guid>
+      <description>我最近的幾個塗鴉 </description>
+      <content>&lt;p&gt;我最近的幾個塗鴉
+&lt;img src=&#34;https://thect.tw/IMG_20201015_125412_204.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201016_125559_755.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201021_110039_183.jpg&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://thect.tw/IMG_20201021_112159_027.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>[音樂] Emotional_Meteor</title>
+      <link>http://thect.tw/posts/emotional_meteor/</link>
+      <pubDate>Sat, 19 Sep 2020 13:54:02 +0800</pubDate>
+      
+      <guid>http://thect.tw/posts/emotional_meteor/</guid>
+      <description>Emotional_Meteor
+在 Youtube 上聆聽</description>
+      <content>&lt;p&gt;Emotional_Meteor&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/RfTXFwNuJmQ&#34;&gt;在 Youtube 上聆聽&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>[火箭] 簡易火箭科學 1 - 火箭引擎種類</title>
+      <link>http://thect.tw/posts/20200826_rocket_cycle/</link>
+      <pubDate>Wed, 26 Aug 2020 23:16:35 +0800</pubDate>
+      
+      <guid>http://thect.tw/posts/20200826_rocket_cycle/</guid>
+      <description>火箭最早的歷史可追溯到古代中國，但現代化的火箭則要到 20 世紀初才真正開始發展。其中，最有名一個里程碑的是 1912 年，戈達德發射了一個固態燃料製作的引擎，開啟了火箭的時代。</description>
+      <content>&lt;p&gt;火箭最早的歷史可追溯到古代中國，但現代化的火箭則要到 20 世紀初才真正開始發展。其中，最有名一個里程碑的是 1912 年，戈達德發射了一個固態燃料製作的引擎，開啟了火箭的時代。&lt;/p&gt;
+&lt;p&gt;發射一個火箭會多困難？拿些燃料，一根火柴，點火，「碰」的一聲！尖端向上，火焰向下。這樣火箭就會升空了，不是嗎？&lt;/p&gt;
+&lt;p&gt;某種程度上是的，但當你要將規模放大到 Soyuz、Proton，又或著是人類製作過最強大的火箭「土星 5 號」，並且保持精確控制的能力，就得考慮更多不同領域的科學，而不是單純放火。&lt;/p&gt;
+&lt;p&gt;在這個系列中，我會單元式的帶過火箭各個部份的科學概念。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KGzrC6J.jpg&#34; alt=&#34;Falcon 9 Launch&#34;&gt;
+&lt;em&gt;上圖版權屬於 SpaceX，以 &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;CC BY-NC 2.0&lt;/a&gt; 於 &lt;a href=&#34;https://www.flickr.com/photos/spacex/49549022017/in/dateposted/&#34;&gt;Flicker&lt;/a&gt; 釋出&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;引擎的原理&#34;&gt;&lt;strong&gt;引擎的原理&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;牛頓提出作用力和反作用力的概念 - 你向下施力，反作用力就會把你往上推。而火箭引擎就是這樣運作的，&lt;strong&gt;盡可能快速且大量地向下排出氣體&lt;/strong&gt;，換取向上的推力。&lt;/p&gt;
+&lt;p&gt;當我們往氣球中吹入氣體時，氣球的橡皮會向內壓縮，讓氣球內部壓力高於外部大氣壓力。在放開吹氣口的瞬間，這股壓力找到宣洩的出口，一股腦地衝出，氣球獲得反作用力後就會飛走。這就是最簡單的一種火箭引擎了。&lt;/p&gt;
+&lt;p&gt;但這樣的火箭引擎有致命傷。你要噴更多氣體，那你就得加高發射前氣體的壓力。但我們都看過氣球充太多氣會發生什麼事，你會一邊努力的像氣球內吹氣，一邊被爆開的氣球炸到臉。於是我們加厚我們的氣體儲存槽，但這樣又會讓我們的火箭變重，代表再加高氣壓，然後加厚，加高…加厚…加高…加厚，很快的，我們會打造出和台北 101 一樣巨大的火箭，但是重量大到連起飛都有困難。&lt;/p&gt;
+&lt;p&gt;相信各位都知道如何解決這個問題，&lt;strong&gt;爆炸！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;「所謂的火箭引擎，其實就是人為控制的爆炸」，這是常用來形容火箭的說法。我們接下來先介紹最簡單的一種引擎種類——「&lt;strong&gt;擠壓循環 Pressure-fed Cycle&lt;/strong&gt;」&lt;/p&gt;
+&lt;h2 id=&#34;循環&#34;&gt;&lt;strong&gt;循環&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;在開始前我們先解釋一下名詞。&lt;strong&gt;循環&lt;/strong&gt;（Cycle）指的是引擎內管線連接的方式。常見的像是「&lt;strong&gt;擠壓循環&lt;/strong&gt;」、「&lt;strong&gt;燃氣產生器循環&lt;/strong&gt;」、「&lt;strong&gt;分級燃燒循環&lt;/strong&gt;」、「&lt;strong&gt;完全分級燃燒循環&lt;/strong&gt;」。當然還有更多不同的燃燒方式，未來我們會在個別單元內介紹。&lt;/p&gt;
+&lt;h3 id=&#34;擠壓循環-pressure-fed-cycle&#34;&gt;&lt;strong&gt;擠壓循環 Pressure Fed Cycle&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;擠壓循環&lt;/strong&gt; 的火箭中有三種儲存槽，其中兩個放燃料，另一個放像是氦一樣輕且穩定的氣體。當啟動引擎時，打開閥門讓燃料因儲存槽內部高壓自然流出，在接觸到以相同的方式流出的氧化劑後燃燒，或是進入充滿催化物的管線中，經過化學變化提高壓力，噴出噴嘴提供推力，同時在燃料槽中適度注入氦氣保持艙內壓力。&lt;/p&gt;
+&lt;p&gt;這樣的引擎構造簡單，且使用的燃料使的引擎構造可以省去渦輪，降低結構複雜程度，同時擁有極短的啟動時間（不必等待渦輪啟動）。&lt;/p&gt;
+&lt;p&gt;但此類引擎有一項缺點，燃燒艙的壓力必須低於儲存槽，才能讓燃料正常流入。這讓引擎設計產生限制，面臨前面提過的問題－若要提昇推力，就得提昇燃燒艙壓力，也代表儲存槽內部壓力得更高，並讓儲存槽更厚重才能維持結構，造成引擎變重並降低效能。&lt;/p&gt;
+&lt;p&gt;於是，這種引擎不適合用來當作主引擎，但因為簡單的構造和快速啟動的特性，經常用來當作姿態控制、高度控制用的小引擎。阿波羅計畫中所用的所有姿態控制引擎和登月小艇的降落、上升用引擎都是這類循環的應用。&lt;/p&gt;
+&lt;p&gt;既然我們一而再的受到壓力限制，那我們要怎麼獲得更高的效能呢？何不主動用渦輪從儲存槽抽取燃料！於是，燃氣產生器循環就派上用場了。&lt;/p&gt;
+&lt;h3 id=&#34;燃氣產生器循環-gas-generator-cycle-開式循環-open-cycle&#34;&gt;&lt;strong&gt;燃氣產生器循環 Gas Generator Cycle&lt;/strong&gt; （開式循環 Open Cycle）&lt;/h3&gt;
+&lt;p&gt;接下來提到的引擎和前面介紹的擠壓循環引擎比起來，多了一個叫做「渦輪」的構造。渦輪泵（turbo pump）透過高速轉動，主動抽取燃料槽內的燃料。相比被動取得燃料的擠壓循環，此類循環不會被槽內壓力所限制，但是同時犧牲了前者的簡單構造和低啟動延遲。&lt;/p&gt;
+&lt;p&gt;要轉動渦輪，代表必須提供它一個動力來源。或許現在的科技可以讓我們輕鬆運用電池驅動馬達作為渦輪的動力，但在火箭科學萌芽的 1970 年代，電池發出的電還不夠我們驅動像是用在 &lt;strong&gt;土星 5 號&lt;/strong&gt; 的 &lt;strong&gt;F-1 引擎&lt;/strong&gt; 那樣的怪獸。一個 F-1 火箭引擎每秒需要燃燒超過 2.5 頓的燃料和氧化劑，即使在今日都還是相當驚人的數據。以當時科技，甚至是今日的科技，都無法單純使用電池做到。今日，電池雖然能夠提供極高的能量，但是相對的也提供極大的重量，以電池驅動的火箭也必會受到電池重量影響，犧牲潛在的效能。&lt;/p&gt;
+&lt;p&gt;那還有什麼能量來源同時足夠帶動渦輪，又不會對火箭重量造成影響呢？&lt;/p&gt;
+&lt;p&gt;工程師們在引擎裡在加上一個 &lt;strong&gt;預燃室&lt;/strong&gt;，在引擎啟動時第一個被啟動的部分就是預燃室。預燃室和燃燒室使用同樣的燃料，打開燃料槽後燃料會先在預燃室點燃，燃燒產生的燃料主要被用來帶動渦輪。渦輪啟動後抽取更多的燃料到預燃室和主燃燒室，啟動引擎後渦輪的抽取速度也會提升。&lt;/p&gt;
+&lt;p&gt;這樣的設計讓引擎效能大幅提昇，但是預燃室為了避免渦輪過熱必須用不理想的燃燒比例運作，也就是富燃料或富氧化劑的環境。但這也代表預燃室會排出不完全燃燒的氣體，浪費不少燃料或氧化劑。&lt;/p&gt;
+&lt;p&gt;即使如此，這樣的引擎已經是非常驚人的強大，我們可是用這樣的引擎 9 次把人送到月球，其中 6 次還成功登陸。火箭公司 SpaceX 現在也用他們的 Merlin-1D 引擎在火箭產業中稱霸，甚至送人上太空站。&lt;/p&gt;
+&lt;h3 id=&#34;分級燃燒循環-staged-combustion-cycle-閉式循環-closed-cycle&#34;&gt;&lt;strong&gt;分級燃燒循環 Staged Combustion Cycle&lt;/strong&gt; (閉式循環 Closed Cycle)&lt;/h3&gt;
+&lt;p&gt;科學家們對於開式循環的效能不滿意，開始思考「能不能把預燃室的燃燒產物再導回主燃燒室呢」。美國的工程師們對此感到苦惱，因為提高燃料（高度精煉煤油 RP-1）的比例會讓燃燒後的碳在回到燃燒室後造成管線阻塞。提高氧化劑（液態氧 LOX）會讓所有管線和氧反應，造成管線毀損的風險。兩條路都不是簡單能克服的，所以在美國航天界有很長一段時間都認為這樣的引擎是無法被打造出來的。&lt;/p&gt;
+&lt;p&gt;但是，戰鬥民族俄羅斯有不一樣的想法&lt;/p&gt;
+&lt;h4 id=&#34;富氧環境&#34;&gt;&lt;strong&gt;富氧環境&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;「碳會造成管線阻塞？那就不要用富燃料環境!」，蘇聯科學家研究出了高度抗氧化的合金，用他打造了 NK-15、NK-33。而他們的後繼者 RD-170 發射了蘇聯版的太空梭「暴風雪號 Buran Shuttle」，RD-180 則在蘇聯解體後賣給美國，現在用來驅動 &lt;strong&gt;聯合發射聯盟&lt;/strong&gt; 的 &lt;strong&gt;Atlas V&lt;/strong&gt; 系列火箭。&lt;/p&gt;
+&lt;p&gt;這些引擎把所有的氧都導向預燃室，加上一點燃料燃燒帶動渦輪。多出的氧和燃燒殘渣一起導向主燃燒室，最後所有燃燒產物都會從噴嘴離開，而不是另外排出，浪費潛在的能量。&lt;/p&gt;
+&lt;h4 id=&#34;富燃料環境&#34;&gt;&lt;strong&gt;富燃料環境&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;美國工程師也沒閒著，既然處理不了碳阻塞，那就換成不含碳的燃料。他們決定使用液態氫作為燃料，但這就出現了問題，氫實在太輕、太小了！氫時不時就會鑽到管線縫隙試圖逃脫，造成引擎設計必須處處考慮到外洩風險。最後美國工程師選擇使用雙渦輪的構造，一個負責抽取氧化劑，一個負責燃料。運作時，所有燃料會分別導到兩個預燃室，燃燒帶動渦輪後再讓富含氫和水氣的殘餘燃料到主燃燒室和更多氧會合。&lt;/p&gt;
+&lt;p&gt;這個設計被應用在美國的太空梭主引擎 &lt;strong&gt;RS-25&lt;/strong&gt; 上，這個引擎幾乎是目前人類打造過最複雜、昂貴，且至今效率仍名列前茅的火箭引擎。&lt;/p&gt;
+&lt;h3 id=&#34;全流分級燃燒循環-full-flow-stage-combustion-cycle&#34;&gt;&lt;strong&gt;全流分級燃燒循環 Full Flow Stage Combustion Cycle&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;註：目前我沒找到這類循環的中文翻譯，所以我先按字面翻&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;分級燃燒聽起來像是我們能作到最高效率的循環了…，我們還能在進步嗎？當然！&lt;/p&gt;
+&lt;p&gt;全流分級燃燒循環同樣採用雙預燃室的設計，但不一樣的是「全流」，所有的燃料都會用來轉動渦輪。也就是說，負責帶動燃料渦輪的預燃室會是富燃料環境，而負責氧化劑渦輪的預燃室是富氧環境。雙雙帶動渦輪後再到主燃燒室燃燒，這讓燃燒室的壓力能夠進一步得到提升，將燃料和氧化劑的潛能發揮到極致。&lt;/p&gt;
+&lt;p&gt;SpaceX 的 Raptor 引擎是目前唯一實際飛過的這類引擎，他們計畫用它推動星艦 Starship 帶人類前往火星。很高可能性，這會是人類第一次將這類高效率的引擎發射到軌道。&lt;/p&gt;
+&lt;h2 id=&#34;總結&#34;&gt;&lt;strong&gt;總結&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;以上就是目前常見的的幾種引擎循環，當然我跳過了不少很有趣的引擎，像是 Rocket Lab 的電力渦輪引擎。但是我覺得他的特殊性值得用單獨一個單元介紹。&lt;/p&gt;
+&lt;p&gt;如果在以上內容發現錯誤，無論是概念、名詞或我打錯字，歡迎寄信到 &lt;a href=&#34;mailto:thect@protonmail.com&#34;&gt;thect@protonmail.com&lt;/a&gt;。感謝大家閱讀，如果我夠閒的話會再寫幾篇。&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;&lt;strong&gt;參考資料&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Is SpaceX&amp;rsquo;s Raptor engine the king of rocket engines?&lt;/strong&gt; &lt;em&gt;Everyday Astronaut&lt;/em&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=LbH1ZDImaI8&amp;amp;t=154s&#34;&gt;https://www.youtube.com/watch?v=LbH1ZDImaI8&amp;amp;t=154s&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Pressure-fed engine&lt;/strong&gt; - Wikipedia
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Pressure-fed_engine&#34;&gt;https://en.wikipedia.org/wiki/Pressure-fed_engine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gas-generator cycle&lt;/strong&gt; - Wikipedia
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Gas-generator_cycle&#34;&gt;https://en.wikipedia.org/wiki/Gas-generator_cycle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Expander cycle&lt;/strong&gt; - Wikipedia
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Expander_cycle&#34;&gt;https://en.wikipedia.org/wiki/Expander_cycle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Staged combustion cycle&lt;/strong&gt; - Wikipeida
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Staged_combustion_cycle&#34;&gt;https://en.wikipedia.org/wiki/Staged_combustion_cycle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;RP-1&lt;/strong&gt; - Wikipedia
+&lt;a href=&#34;https://en.wikipedia.org/wiki/RP-1&#34;&gt;https://en.wikipedia.org/wiki/RP-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rocket Engine Plumbing: Still don&amp;rsquo;t understand the Full Flow Staged Combustion Cycle&lt;/strong&gt; - StackOverflow
+&lt;a href=&#34;https://space.stackexchange.com/questions/18538/rocket-engine-plumbing-still-dont-understand-the-full-flow-staged-combustion-c&#34;&gt;https://space.stackexchange.com/questions/18538/rocket-engine-plumbing-still-dont-understand-the-full-flow-staged-combustion-c&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
