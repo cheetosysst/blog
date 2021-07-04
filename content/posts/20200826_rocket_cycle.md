@@ -98,7 +98,7 @@ SpaceX 的 Raptor 引擎是目前唯一實際飛過的這類引擎，他們計�
 **Expander cycle** - Wikipedia
 [https://en.wikipedia.org/wiki/Expander_cycle](https://en.wikipedia.org/wiki/Expander_cycle)
 
-**Staged combustion cycle** - Wikipeida
+**Staged combustion cycle** - Wikipedia
 [https://en.wikipedia.org/wiki/Staged_combustion_cycle](https://en.wikipedia.org/wiki/Staged_combustion_cycle)
 
 **RP-1** - Wikipedia
