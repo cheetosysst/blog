@@ -1,0 +1,89 @@
+baseURL = "http://thect.tw/"
+languageCode = "en-us"
+title = "早八 Thect's Blog"
+baseurl = "/"
+theme = "terminal"
+paginate = 5
+summaryLength  = 2
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = true
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "Thect_36"
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Thect's Blog"
+    subtitle = "早八 部落格"
+    owner = "Thect"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Thect's Blog"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "[Post]"
+        url = "/posts"
+        weight=-30
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "[Github]"
+        url = "https://github.com/cheetosysst"
+        weight=-20
+      [[languages.en.menu.main]]
+        identifier = "youtube"
+        name = "[Youtube]"
+        url = "https://www.youtube.com/c/thect"
+        weight=-20
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "[About]"
+        url = "/about"
+        weight=-10
