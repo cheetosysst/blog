@@ -74,12 +74,12 @@ summaryLength  = 2
         weight=-30
       [[languages.en.menu.main]]
         identifier = "github"
-        name = "[Github]"
+        name = "[GitHub]"
         url = "https://github.com/cheetosysst"
         weight=-20
       [[languages.en.menu.main]]
         identifier = "youtube"
-        name = "[Youtube]"
+        name = "[YouTube]"
         url = "https://www.youtube.com/c/thect"
         weight=-20
       [[languages.en.menu.main]]
